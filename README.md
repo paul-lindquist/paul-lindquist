@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects: [https://github.com/paul-lindquist](https://github.com/paul-lindquist)
 
+- 📍 I live in the: **Dallas/Fort Worth, TX area**
+
 - 📫 How to reach me: **paullindquist@fastmail.com**
 
 - 💬 Ask me about: **Film/TV, sports, traveling, dogs**
