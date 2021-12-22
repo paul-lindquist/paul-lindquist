@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! 🌎 I'm Paul.</h1>
+<h1 align="center">Hello, world 🌎 I'm Paul</h1>
 <h3 align="center">I'm a Data Scientist who loves to use data to solve problems</h3>
 
 - 👨‍💻 All of my projects: [https://github.com/paul-lindquist](https://github.com/paul-lindquist)
