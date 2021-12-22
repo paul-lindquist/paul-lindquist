@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: paullindquist@fastmail.com
 
-- 📍 I live in the: **Dallas, TX area**
+- 📍 I live in: **the Dallas, TX area**
 
 - 💬 Ask me about: **Film/TV, sports, traveling, dogs**
 
