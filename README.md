@@ -5,7 +5,7 @@
 
 - 📍 I live in: **Dallas, TX area**
 
-- 🧠 I'm interested in: **All things Data science/analysis, machine learning, predictive modeling**
+- 🧠 I'm interested in: **All things data science/analysis, machine learning, predictive modeling**
 
 - 💬 Ask me about: **Film/TV, sports, traveling, dogs**
 
