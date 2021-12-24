@@ -1,9 +1,9 @@
 <h1 align="center">Hello, world 🌎 I'm Paul</h1>
 <h3 align="center">I'm a Data Scientist who loves to use information to solve problems</h3>
 
-- 📫 How to contact me: paullindquist@fastmail.com
+- 📫 How to contact me: **paullindquist@fastmail.com**
 
-- 📍 I live in: **Dallas, TX area**
+- 📍 I live in: **Dallas, TX (surrounding area)**
 
 - 🧠 I'm interested in: **All things data science/analysis, machine learning, predictive modeling**
 
