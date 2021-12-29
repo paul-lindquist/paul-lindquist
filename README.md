@@ -1,19 +1,27 @@
-<h1 align="center">Hello, world 🌎 I'm Paul</h1>
-<h3 align="center">I'm a Data Scientist who loves to use information to solve problems</h3>
+<h1 align="center">Hello, world 🌎 I'm Paul 😃</h1>
+<h3 align="center">I'm a Data Scientist who loves to use data to solve problems 🕵️‍♂️</h3>
 
-- 📫 How to contact me: **paullindquist@fastmail.com**
+<h3 align="left">Contact:</h3>
+<p align="left">
+<a href="mailto:paullindquist@fastmail.com" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/google/noto-emoji-objects/1024/62895-closed-mailbox-with-raised-flag-icon.png" height="38" width="38" /></a>
+</p>
 
-- 📍 I live in: **Dallas, TX (surrounding area)**
+<h3 align="left">Location:</h3>
+<p align="left">
+<a href="https://www.google.com/maps/@33.1260885,-96.8498575,12z" target="blank"><img align="center" src="https://i.ibb.co/3MRjBs3/dallas.png" alt="dallas-area" height="38" width="38" /></a>
+</p>
 
-- 🧠 I'm interested in: **All things data science/analysis, machine learning, predictive modeling**
-
-- 💬 Ask me about: **Film/TV, sports, traveling, dogs**
-
-- ⚡ Fun fact: **I love being a dad to 2 amazing kids 👨‍👧‍👦**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paul-lindquist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-lindquist" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Interests:</h3>
+All things data science/analysis, machine learning, predictive modeling, film/TV, sports, travel ✈️
+</p>
+
+<h3 align="left">Fun Fact:</h3>
+I love being a dad to 2 amazing kids 👨‍👧‍👦
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
