@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world 🌎 I'm Paul 😃</h1>
-<h3 align="center">I'm a Data Scientist who loves to use data to solve problems 🕵️‍♂️</h3>
+<h3 align="center">I'm a Data Scientist who loves using data to make informed decisions 📈</h3>
 
 <h3 align="left">Contact:</h3>
 <p align="left">
