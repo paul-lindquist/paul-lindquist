@@ -8,7 +8,7 @@
 
 <h3 align="left">Location:</h3>
 <p align="left">
-<a href="https://www.google.com/maps/@33.0102812,-96.8443615,10.83z" target="blank"><img align="center" src="https://i.ibb.co/2d4HCyB/dallas.png" alt="dallas-area" height="38" width="38" /></a>
+<a href="https://www.google.com/maps/@33.0072119,-96.8515272,11z" target="blank"><img align="center" src="https://i.ibb.co/2d4HCyB/dallas.png" alt="dallas-area" height="38" width="38" /></a>
 </p>
 
 <h3 align="left">Connect:</h3>
