@@ -21,7 +21,7 @@ Data science/analysis, machine learning, predictive modeling, film/TV, sports, t
 </p>
 
 <h3 align="left">Fun Fact:</h3>
-I'm a dad to 2 amazing kids 👨‍👧‍👦
+I'm lucky to be a dad to 2 amazing kids 👨‍👧‍👦
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
