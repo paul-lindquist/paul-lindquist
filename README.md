@@ -21,7 +21,7 @@ Data science/analysis, machine learning, predictive modeling, film/TV, sports, t
 </p>
 
 <h3 align="left">Fun Fact:</h3>
-I have 2 amazing kids 👨‍👧‍👦
+I earned a 2nd degree black belt in Tae Kwon Do when I was 9 🥋
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
