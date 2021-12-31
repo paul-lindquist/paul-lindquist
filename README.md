@@ -8,7 +8,7 @@
 
 <h3 align="left">Location:</h3>
 <p align="left">
-<a href="https://www.google.com/maps/@33.1260885,-96.8498575,12z" target="blank"><img align="center" src="https://i.ibb.co/2d4HCyB/dallas.png" alt="dallas-area" height="38" width="38" /></a>
+<a href="https://www.google.com/maps/@33.0102812,-96.8443615,10.83z" target="blank"><img align="center" src="https://i.ibb.co/2d4HCyB/dallas.png" alt="dallas-area" height="38" width="38" /></a>
 </p>
 
 <h3 align="left">Connect:</h3>
@@ -21,7 +21,7 @@ Data science/analysis, machine learning, predictive modeling, film/TV, sports, t
 </p>
 
 <h3 align="left">Fun Fact:</h3>
-I love being a dad to 2 amazing kids 👨‍👧‍👦
+I'm a dad to 2 amazing kids 👨‍👧‍👦
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
