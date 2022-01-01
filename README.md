@@ -21,7 +21,7 @@ Data science/analysis, machine learning, predictive modeling, film/TV, sports, t
 </p>
 
 <h3 align="left">Fun Fact:</h3>
-I earned a 2nd degree black belt in Tae Kwon Do when I was 9 🥋
+I earned a 2nd degree black belt in Tae Kwon Do when I was 9 years-old 🥋
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
