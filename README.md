@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">Interests:</h3>
-Data science/analysis, machine learning, predictive modeling, film/TV, sports, travel ✈️
+Data science/analysis, machine learning, predictive modeling, film/TV, sports, fantasy football, travel ✈️
 </p>
 
 <h3 align="left">Fun Fact:</h3>
