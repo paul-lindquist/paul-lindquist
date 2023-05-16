@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world 🌎 I'm Paul 😃</h1>
-<h3 align="center">Data Enginee 📈 Dad 👨‍👧‍👦 Food Enthusiast 🍛</h3>
+<h3 align="center">Data Engineer 📈 Dad 👨‍👧‍👦 Food Enthusiast 🍛</h3>
 
 <h3 align="left">Contact:</h3>
 <p align="left">
